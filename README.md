@@ -1,2 +1,3 @@
 # HelloWorld
-Test Repository
+
+A repository for Hello World programs
